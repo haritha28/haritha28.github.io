@@ -1,0 +1,21 @@
+= Introducing Me
+// See https://hubpress.gitbooks.io/hubpress-knowledgebase/content/ for information about the parameters.
+// :hp-image: /covers/cover.png
+// :published_at: 2019-01-31
+// :hp-tags: HubPress, Blog, Open_Source,
+// :hp-alt-title: My English Title
+
+I donot know anyone who has reached the top without hardwork. It will not always get you to the top but would help to get pretty near. 
+
+This is me in short. Hardwork, determination and lot of great people are those which helped to me to get till here writing this blog. I know you have not much of an idea but wait, you will get it soon. 
+
+I am student from FOSS@Amrita. I am no tech geek, but I love to be good at what I am doing. FOSS@Amrita, a wonderful club where people of same interest in the world of Computers, join in to develop, play and exploit the field of computers to find out what is best for us. 
+
+I love to code and solve challenging problems. My personal intersts would be towards areas like Networking and Operating Systems. The best part of being a computer science enthusiast is that we get find multidimensional answers for different problems. I also an active editor to WikiToLearn Community. 
+
+Personally, I love to read and talk a lot. Israel-Palestian issue and Rise of ISIS are one of my favourite areas of interests. Moreover, I am hardcore pottermore, who loves be the "girl who lived" with an OCD like Monica Geller. HAHA! You got it I am crazy F.R.I.E.N.D.S fan too. I cannot resist exploring different places and cultures. 
+
+Life is full of challenges and these are the few things that helps me keep going with all the happiness, I have!
+
+
+
